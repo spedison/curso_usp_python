@@ -30,12 +30,16 @@ Projeto de verão sobre Python 3 e NLP.
 
 ### Questões interessantes
 
+- Diferenças entre o Python2 e Python3
+  - https://blog.caelum.com.br/quais-as-diferencas-entre-python-2-e-python-3/amp/
 - Biblioteca para manipulação de arquivos do word:
   - https://jobu.com.br/2021/06/26/como-ler-documentos-do-word-com-python/
 - Operadores Python
   - https://www.programiz.com/python-programming/operators#:~:text=is%20and%20is%20not%20are,imply%20that%20they%20are%20identical.
 - Ordem de precedência de operadores Python
   - https://docs.python.org/3/reference/expressions.html#operator-precedence
+
+
 
 ### 1o Semana
 | Nome           | Trabalhos | Local        | Status |
