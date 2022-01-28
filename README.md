@@ -1,6 +1,6 @@
 # curso_usp_python_NLP
 
-Projeto de verão sobre Python 3 e NLP.
+Curso de verão sobre Python 3 e NLP.
 
 ### Pauta das Aulas:
 
@@ -46,8 +46,8 @@ Projeto de verão sobre Python 3 e NLP.
 |----------------|-----------|--------------|--------|
 | echo.py        | Echo      | Em aula      | Feito  |
 | media.py       | Média     | Em aula      | Feito  |
-| exercicio-1.py | Programa °F->°C                                                       | Fora aula    | Feito  |
- | exercicio-2.py | Dado uma entrada com mais de 3 carcteres, imprimir sem o 3° Caractere | Fora Aula    | Feito  |
+| exercicio-1.py | Conversor °F->°C                                                       | Fora aula    | Feito  |
+ | exercicio-2.py | Dado uma entrada com mais de 3 caracteres, imprimir sem o 3° Caractere | Fora Aula    | Feito  |
  | desafio-1.py   | Escrever na tela o tipo de variável.| Fora da Aula | Feito  | 
 
 ### Observações
