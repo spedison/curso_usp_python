@@ -32,12 +32,11 @@ Rafael Vieira Bonangelo
 
 vocab = ['a', 'amizade', 'ação', 'corre', 'do', 'filha', 'mar', 'não', 'o', 'para', 'pensamento',
          'preço', 'sempre', 'tem', 'água', 'é']
+
 pontuacao = [',', '.', '!', '?']
 #Insira sua resolução a partir daqui. Não altere os comandos anteriores.
 
 texto_de_entrada = input("Informe o texto para processar :")
-palavra = ""
-lista_de_palavras = []
 
 ## Array de saida do vocabulário [0 ,0, 0, 0,....]
 vocab_saida = [0] * len(vocab)
@@ -47,7 +46,7 @@ for ch_troca_por_espaco in pontuacao:
     texto_de_entrada = texto_de_entrada.replace(ch_troca_por_espaco, ' ')
 
 ## Extraindo palavra a palavra
-palavras_separadas = texto_de_entrada.split()
+palavras_separadas = texto_de_entrada.lower().split()
 
 ## Roda o dicionário para ver se existe ou não e marca a saída.
 for posicao in range(len(vocab)):
